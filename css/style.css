@@ -1,0 +1,26 @@
+body{
+    font: 20px arial, sans-serif ;
+}.navbar{
+    background-color: rgb(255, 119, 28);
+}
+.quem-somos{
+    background-color: rgb(255, 187, 97);
+    padding: 10px 0px 10px 0px;
+}
+.margin{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.parce{
+    background-color: rgb(255, 239, 93);
+
+}
+.servicos1{
+    background-color: rgb(63, 63, 63);
+    color: white;
+}
+.merginp{
+    text-align: justify;
+    text-align: center;
+    padding-top: 15px;
+}
